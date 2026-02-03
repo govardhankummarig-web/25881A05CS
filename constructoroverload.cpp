@@ -33,3 +33,4 @@ class student{
     s3.display();
     return0;
     }
+
