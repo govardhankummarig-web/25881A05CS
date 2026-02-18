@@ -24,4 +24,12 @@ int main(){
         cout<<temp->data<<" ";
         temp=temp->next;
     }
+    cout<,"backward";
+    node*temp=n3;
+    while(temp!=Null){
+        cout<<temp->data<<" ";
+        temp=temp->prev
+    }
+    return 0;
 }
+
